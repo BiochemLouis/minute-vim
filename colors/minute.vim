@@ -6,6 +6,7 @@ if version > 580
   if exists("syntax_on")
     syntax reset
   endif
+  set background=dark
 endif
 
 let g:colors_name='minute'
