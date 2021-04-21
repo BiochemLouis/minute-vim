@@ -20,6 +20,10 @@ hi CursorColumn ctermfg=none  ctermbg=none cterm=none
 hi Cursor       ctermfg=none  ctermbg=none cterm=none
 hi CursorLine   ctermfg=none  ctermbg=none cterm=none
 hi Define       ctermfg=none  ctermbg=none cterm=bold
+hi DiffAdd      ctermfg=green ctermbg=none cterm=none
+hi DiffChange   ctermfg=cyan  ctermbg=none cterm=none
+hi DiffDelete   ctermfg=red   ctermbg=none cterm=none
+hi DiffText     ctermfg=cyan  ctermbg=none cterm=underline
 hi Directory    ctermfg=none  ctermbg=none cterm=bold
 hi ErrorMsg     ctermfg=none  ctermbg=none cterm=none
 hi Float        ctermfg=none  ctermbg=none cterm=none
